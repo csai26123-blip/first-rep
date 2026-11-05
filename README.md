@@ -1,2 +1,2 @@
-# first-rep
+# flicker
 this is my first repository
